@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The intention of this project is to provide some simple features to assist in the upload to and usage of Amazon Merch (merch.amazon.com).
+Merch Buddy provides some small quality of life changes to assist in the upload to and the usage of Amazon Merch (https://merch.amazon.com).
 Currently the only available format is as a Chrome extension.
 
 ## Features
